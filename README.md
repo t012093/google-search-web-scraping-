@@ -39,3 +39,6 @@ https://programmablesearchengine.google.com/controlpanel/all
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rRwrLEe7iIgoe_P-bsjCNtKbNANOvwI9?usp=sharing)
+
+ノートブックをgoogle driveにコピーします。（いつでもgoogledriveから使うことができるようになる）
+<img width="709" alt="Screen Shot 2023-04-23 at 12 25 33 AM" src="https://user-images.githubusercontent.com/97029186/233793218-bfaa62ce-eaac-47b9-ab55-f4d4de5777b9.png">
