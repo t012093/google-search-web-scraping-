@@ -42,3 +42,27 @@ https://programmablesearchengine.google.com/controlpanel/all
 
 ノートブックをgoogle driveにコピーします。（いつでもgoogledriveから使うことができるようになる）
 <img width="709" alt="Screen Shot 2023-04-23 at 12 25 33 AM" src="https://user-images.githubusercontent.com/97029186/233793218-bfaa62ce-eaac-47b9-ab55-f4d4de5777b9.png">
+
+最初のコードを実行し、googleドライブとの接続を許可します。（これは毎回行う必要がある）
+<img width="546" alt="drive" src="https://user-images.githubusercontent.com/97029186/233793638-4a8a4e12-e467-4a67-8e8b-40360dd808c7.png">
+
+先ほど作成したapikeyとidをコードに添付します。
+
+
+<img width="491" alt="key id" src="https://user-images.githubusercontent.com/97029186/233793722-4fe20f9d-3d6c-40fa-92bc-b2bc60083fce.png">
+
+出力データを保存したいgoogleドライブのフォルダのIDをコードに添付します。  
+googleドライブのフォルダに移動し、URLをコピー（このURLが保存先のIDになります）
+<img width="972" alt="driveidpage" src="https://user-images.githubusercontent.com/97029186/233793815-f1318617-037f-4b82-8dd5-cf4c335dfbf5.png">
+
+コピーしたIDを下記の箇所に添付します。
+
+
+<img width="576" alt="driveid" src="https://user-images.githubusercontent.com/97029186/233793837-ff1ebc20-780d-4e8e-a444-1cfe4f7436fa.png">
+
+順番に実行してフォルダに出力結果が保存されていることを確認してください。　　
+
+エラーが出た時はそのエラーをchatgptに添付して、修正コードや必要なモジュールを指示にしたがいインストールしてください。
+
+
+
