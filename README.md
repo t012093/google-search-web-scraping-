@@ -13,4 +13,6 @@ Step.1: google custom search engine APIを有効にし、APIkeyとIDを設定す
  
 ![](gifgif.gif)
 
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rRwrLEe7iIgoe_P-bsjCNtKbNANOvwI9?usp=sharing)
